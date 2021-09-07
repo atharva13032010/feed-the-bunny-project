@@ -1,1 +1,1 @@
-# feed-the-bunny-project
+# Feed-the-bunny
